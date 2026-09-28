@@ -1,0 +1,6 @@
+{
+  "name": "HealthyCare Chemist",
+  "description": "Your trusted community pharmacy providing authentic medicines, wellness products, certified pharmacist consultations, and WhatsApp prescription ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
